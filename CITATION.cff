@@ -9,8 +9,8 @@ authors:
     given-names: Erfan
 version: 1.0.0
 date-released: 2026-08-13
-repository-code: "https://github.com/mikeyoknow/forecast-driven-elevator-control"
-url: "https://github.com/mikeyoknow/forecast-driven-elevator-control"
+repository-code: "https://github.com/hannahabedinn/forecast-driven-elevator-control"
+url: "https://github.com/hannahabedinn/forecast-driven-elevator-control"
 keywords:
   - applied machine learning
   - elevator group control
