@@ -1,6 +1,6 @@
 # Forecast-Driven Elevator Group Control Under Traffic Drift
 
-[![Tests](https://github.com/mikeyoknow/forecast-driven-elevator-control/actions/workflows/tests.yml/badge.svg)](https://github.com/mikeyoknow/forecast-driven-elevator-control/actions/workflows/tests.yml)
+[![Tests](https://github.com/hannahabedinn/forecast-driven-elevator-control/actions/workflows/tests.yml/badge.svg)](https://github.com/hannahabedinn/forecast-driven-elevator-control/actions/workflows/tests.yml)
 [![Python](https://img.shields.io/badge/Python-3.11-2f4f4f)](https://www.python.org/)
 [![Data](https://img.shields.io/badge/data-synthetic-555555)](#scope-and-limitations)
 
